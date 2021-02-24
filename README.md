@@ -1,10 +1,10 @@
 # Deriving the most profitable movie plot from data
 ## By Abhinav Raghunathan
 
-The work in this repository was implemented for an [article](https://towardsdatascience.com/simulating-the-fifa-world-cup-2022-d363fad7da22) written on [Medium](https://medium.com).
+The work in this repository was implemented for an [article](https://towardsdatascience.com/simulating-the-fifa-world-cup-2022-d363fad7da22) written on [Medium](https://medium.com), inspired by a fascinating machine learning [paper](https://arxiv.org/ct?url=https%3A%2F%2Fdx.doi.org%2F10.1140%2Fepjds%2Fs13688-016-0093-1&v=5b437ea1) on plotlines by Andrew J. Reagan, Lewis Mitchell, Dilan Kiley, Christopher M. Danforth, and Peter Sheridan Dodds (2016).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)</br></br>
-![alt text](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License")
+![alt text](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons License").
 
 Special thanks goes to the below sources for their data and the masterminds behind the [R Programming Language](https://r-project.org) and its assorted libraries.
 
